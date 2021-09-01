@@ -10,7 +10,7 @@
 </template>
 
 <script>
-  import live2dJSString from "/lib/zenlive2d.js";
+  import live2dJSString from "./zenlive2d";
   import { useDarkMode } from '@vuepress/theme-default/lib/client'
   import { watch } from 'vue'
   export default {

@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <img src="https://img.shields.io/npm/dm/vuepress-plugin-zenlive2d-cat.svg" alt="Downloads"></a>
+ <img src="https://img.shields.io/npm/dt/vuepress-plugin-zenlive2d-cat" alt="Downloads"></a>
  <img src="https://img.shields.io/bundlephobia/min/vuepress-plugin-zenlive2d-cat" alt="Size">
   <a href="https://www.npmjs.com/package/vuepress-plugin-zenlive2d-cat"><img src="https://img.shields.io/npm/v/vuepress-plugin-zenlive2d-cat.svg" alt="Version"></a>
   <a href="https://github.com/zenfection/vuepress-plugin-zenlive2d-cat/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/vuepress-plugin-zenlive2d-cat.svg" alt="License"></a>
